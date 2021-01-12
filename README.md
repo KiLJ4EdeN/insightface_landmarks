@@ -5,10 +5,6 @@ Fast And Accurate Landmark Detection with InsightFace, only 50ms for a single fa
 ![Closed Issues](https://img.shields.io/github/issues-closed/KiLJ4EdeN/insightface_landmarks)
 
 
-## Demo output:
-<img src="https://github.com/KiLJ4EdeN/insightface_landmarks/blob/main/test_out.jpg" width="50%" height="50%" />
-
-
 ## How To Use:
 ```bash
 git clone https://github.com/KiLJ4EdeN/insightface_landmarks
@@ -21,3 +17,6 @@ python image_inference.py
 ```bash
 python video_inference.py
 ```
+
+## Demo output:
+<img src="https://github.com/KiLJ4EdeN/insightface_landmarks/blob/main/test_out.jpg" width="70%" height="70%" />
