@@ -21,3 +21,8 @@ python image_inference.py
 ```bash
 python video_inference.py
 ```
+
+## Video:
+<div align="center">
+	<img src="https://github.com/nttstar/insightface-resources/blob/master/alignment/images/C_jiaguo.gif" alt="videovis" width="240">
+</div>
