@@ -13,10 +13,11 @@ pip install -r requirements.txt
 python image_inference.py
 ```
 
+## Demo output:
+<img src="https://github.com/KiLJ4EdeN/insightface_landmarks/blob/main/test_out.jpg" width="70%" height="70%" />
+
+
 ## To See the Detector On a Live Stream (Requires A Camera):
 ```bash
 python video_inference.py
 ```
-
-## Demo output:
-<img src="https://github.com/KiLJ4EdeN/insightface_landmarks/blob/main/test_out.jpg" width="70%" height="70%" />
